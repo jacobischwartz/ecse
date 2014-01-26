@@ -5,6 +5,12 @@ if(!current_user_can('manage_options')) wp_die( __('You do not have sufficient p
 
 
 /**
+ * Add language support
+ */
+load_plugin_textdomain('ecse', false, basename( dirname( __FILE__ ) ) . '/languages' );
+
+
+/**
  * Add admin page to the settings menu
  * @return none
  */

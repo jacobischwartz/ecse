@@ -1,14 +1,14 @@
 <?php
 /**
  * @package wp_e_commerce_style_email
- * @version 0.6.2
+ * @version 0.7
  */
 /*
 Plugin Name: WP e-Commerce Style Email
 Plugin URI: http://schwambell.com/wp-e-commerce-style-email-plugin/
 Description: Style the emails that WP E-Commerce sends to your customers. Create a template file in your theme named wpsc-email_style.php that generates the email output, and use the template tag ecse_get_email_content() to dump WP E-Commerce's purchase report into it.
 Author: Jacob Schwartz
-Version: 0.6.2
+Version: 0.7
 Author URI: http://schwambell.com
 */
 

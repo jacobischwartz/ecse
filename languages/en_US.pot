@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPEC 0.6.3\n"
+"POT-Creation-Date: 2014-01-26 11:48-0600\n"
+"PO-Revision-Date: 2014-01-26 11:48-0600\n"
+"Last-Translator: \n"
+"Language-Team: Jacob Schwartz <jacob@schwambell.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ecse/admin_functions.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../ecse/admin_functions.php:164
+msgid "ECSE test email"
+msgstr ""
+
+#: ../ecse/admin_functions.php:164
+msgid "This is what a styled email will look like."
+msgstr ""
+
+#: ../ecse/admin_functions.php:228 ../ecse/mail.class.php:71
+#: ../ecse/mail.class.php:218 ../ecse/mail.class.php:531
+msgid "Purchase Receipt"
+msgstr ""
+
+#: ../ecse/admin_functions.php:231 ../ecse/mail.class.php:62
+#: ../ecse/mail.class.php:216 ../ecse/mail.class.php:529
+msgid "Purchase Report"
+msgstr ""
+
+#: ../ecse/admin_functions.php:234 ../ecse/mail.class.php:80
+#: ../ecse/mail.class.php:219 ../ecse/mail.class.php:532
+msgid "Order Pending"
+msgstr ""
+
+#: ../ecse/admin_functions.php:237 ../ecse/mail.class.php:89
+#: ../ecse/mail.class.php:220 ../ecse/mail.class.php:533
+msgid "Order Pending: Payment Required"
+msgstr ""
+
+#: ../ecse/admin_functions.php:243 ../ecse/mail.class.php:107
+#: ../ecse/mail.class.php:222 ../ecse/mail.class.php:535
+msgid "The administrator has unlocked your file"
+msgstr ""
+
+#: ../ecse/admin_functions.php:246 ../ecse/mail.class.php:117
+#, php-format
+msgid "%s is out of stock"
+msgstr ""
+
+#: ../ecse/mail.class.php:62 ../ecse/mail.class.php:217
+#: ../ecse/mail.class.php:530
+msgid "Transaction Report"
+msgstr ""
+
+#: ../ecse/options_page.php:5
+msgid "WP e-Commerce Style Emails"
+msgstr ""
+
+#: ../ecse/options_page.php:9
+msgid "Create"
+msgstr ""
+
+#: ../ecse/options_page.php:9
+msgid "the"
+msgstr ""
+
+#: ../ecse/options_page.php:9
+msgid "wrapper template file in your theme"
+msgstr ""
+
+#: ../ecse/options_page.php:16
+msgid "Or copy a sample"
+msgstr ""
+
+#: ../ecse/options_page.php:16
+msgid "from this plugin's \"theme\" subfolder"
+msgstr ""
+
+#: ../ecse/options_page.php:24
+msgid "Click "
+msgstr ""
+
+#: ../ecse/options_page.php:24
+msgid "here"
+msgstr ""
+
+#: ../ecse/options_page.php:24
+msgid "to use the in-page coding editor"
+msgstr ""
+
+#: ../ecse/options_page.php:25
+msgid "Show docs"
+msgstr ""
+
+#: ../ecse/options_page.php:26
+msgid "Hide docs"
+msgstr ""
+
+#: ../ecse/options_page.php:28
+msgid "This is a simple example of what you could put in your template file"
+msgstr ""
+
+#: ../ecse/options_page.php:35
+msgid "In addition, these are some"
+msgstr ""
+
+#: ../ecse/options_page.php:35
+msgid "conditional tags"
+msgstr ""
+
+#: ../ecse/options_page.php:35
+msgid "you can use"
+msgstr ""
+
+#: ../ecse/options_page.php:47
+msgid "Want to get really fancy? This plugin now supports a"
+msgstr ""
+
+#: ../ecse/options_page.php:47
+msgid "template hierarchy"
+msgstr ""
+
+#: ../ecse/options_page.php:47
+msgid "for the wrapper, and content replacement for improved receipt emails!"
+msgstr ""
+
+#: ../ecse/options_page.php:51
+msgid "Here are good references for designing html/css emails:"
+msgstr ""
+
+#: ../ecse/options_page.php:56
+msgid "Preview"
+msgstr ""
+
+#: ../ecse/options_page.php:56
+msgid "your styling."
+msgstr ""
+
+#: ../ecse/options_page.php:56
+msgid ""
+"Live WPEC emails sent to an admin will automatically get styled, even when "
+"live styling is turned off. So feel free to run a test purchase with your "
+"admin email address, and preview exactly what customers will see."
+msgstr ""
+
+#: ../ecse/options_page.php:56
+msgid "You can also have a very simple styled email sent to you:"
+msgstr ""
+
+#: ../ecse/options_page.php:64
+msgid "Or preview the email from your browser"
+msgstr ""
+
+#: ../ecse/options_page.php:64
+msgid "general email"
+msgstr ""
+
+#: ../ecse/options_page.php:64
+msgid "purchase receipt"
+msgstr ""
+
+#: ../ecse/options_page.php:65
+msgid ""
+"(Good for quick previews, but don't only rely on this. Email clients can "
+"render your html differently!)"
+msgstr ""
+
+#: ../ecse/options_page.php:66
+msgid "Sent"
+msgstr ""
+
+#: ../ecse/options_page.php:71
+msgid "Turn on"
+msgstr ""
+
+#: ../ecse/options_page.php:71
+msgid "the live email styling when you're satisfied."
+msgstr ""
+
+#: ../ecse/options_page.php:73
+msgid "Style live customer emails"
+msgstr ""
+
+#: ../ecse/options_page.php:74
+msgid "Style all other website emails (contact forms, user registrations, etc)"
+msgstr ""
+
+#: ../ecse/options_page.php:76
+msgid "Exclude emails by subject. Enter each subject on its' own line:"
+msgstr ""
+
+#: ../ecse/options_page.php:91
+msgid "Saved"
+msgstr ""
+
+#: ../ecse/options_page.php:99
+msgid "Contact this plugin's developer"
+msgstr ""
+
+#: ../ecse/options_page.php:101
+msgid "Write some constructive criticism or positive feedback"
+msgstr ""
+
+#: ../ecse/options_page.php:103
+msgid "or visit"
+msgstr ""
+
+#: ../ecse/options_page.php:103
+msgid "his website"
+msgstr ""
+
+#: ../ecse/options_page.php:103
+msgid "plugin page"
+msgstr ""
+
+#: ../ecse/options_page.php:103
+msgid "forums"
+msgstr ""
+
+#: ../ecse/options_page.php:108
+msgid "Theme Template File"
+msgstr ""
+
+#: ../ecse/options_page.php:111
+msgid "save"
+msgstr ""
+
+#: ../ecse/options_page.php:112
+msgid "Revert"
+msgstr ""
+
+#: ../ecse/options_page.php:113
+msgid "Cancel"
+msgstr ""
+
+#: ../ecse/options_page.php:185 ../ecse/options_page.php:203
+msgid "loading"
+msgstr ""
+
+#: ../ecse/options_page.php:193 ../ecse/options_page.php:197
+msgid ""
+"Are you sure you want to close the editor? You will lose any unsaved changes"
+msgstr ""
+
+#: ../ecse/options_page.php:202
+msgid "Are you sure you want to revert? You will lose any unsaved changes"
+msgstr ""
+
+#: ../ecse/options_page.php:239
+msgid "There was a problem saving your theme file"
+msgstr ""
+
+#: ../ecse/options_page.php:258
+msgid "Click SAVE to create your theme file"
+msgstr ""
+
+#: ../ecse/options_page.php:276
+msgid "There was a problem sending that message"
+msgstr ""
+
+#: ../ecse/options_page.php:293
+msgid "There was a problem saving the settings"
+msgstr ""
+
+#: ../ecse/options_page.php:308
+msgid "There was a problem sending that preview"
+msgstr ""

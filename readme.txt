@@ -2,8 +2,8 @@
 Contributors: mightyturtle
 Tags: e-commerce, wp e-commerce, email, style, theme template
 Requires at least: 3.2
-Tested up to: 3.4.2
-Stable tag: 0.6.2
+Tested up to: 3.8.1
+Stable tag: 0.67
 
 Style the emails that WP e-Commerce sends to your customers.
 
@@ -166,6 +166,9 @@ I'll try to get back to you in a businesslike fashion, but I can't promise immed
 
 
 == Changelog ==
+
+= 0.7 =
+* Add translation support with .pot file
 
 = 0.6.2 =
 * Update subject-line detection for transaction reports / purchase reports (changed in WPEC 3.8.9)
